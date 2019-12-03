@@ -27,7 +27,7 @@ function checkInput($data)
 <!DOCTYPE html>
 <html lang="fr-fr">
 <head>
-    <title>Burger Code</title>
+    <title>Dashboard</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -38,7 +38,7 @@ function checkInput($data)
 </head>
 
 <body>
-<h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Burger Code <span class="glyphicon glyphicon-cutlery"></span></h1>
+<h1 class="text-logo"><span class="glyphicon glyphicon-cutlery"></span> Dashboard <span class="glyphicon glyphicon-cutlery"></span></h1>
 <div class="container admin">
     <div class="row">
         <div class="col-sm-6">
